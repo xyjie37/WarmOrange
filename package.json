@@ -1,0 +1,47 @@
+{
+  "name": "trae-warm-orange-theme",
+  "displayName": "Warm Orange Theme",
+  "description": "一个温暖柔和的橙色主题，适合长时间编码使用",
+  "version": "1.0.0",
+  "publisher": "JerryJie",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "orange",
+    "warm",
+    "light",
+    "theme",
+    "beige",
+    "cozy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerryjie/trae-warm-orange-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/jerryjie/trae-warm-orange-theme/issues"
+  },
+  "homepage": "https://github.com/jerryjie/trae-warm-orange-theme",
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warm Orange",
+        "uiTheme": "vs",
+        "path": "./themes/warm-orange-theme.json"
+      }
+    ]
+  },
+  "activationEvents": [
+    "onCommand:workbench.action.selectTheme"
+  ],
+  "main": "./extension.js",
+  "galleryBanner": {
+    "color": "#fdfcf8",
+    "theme": "light"
+  }
+}
