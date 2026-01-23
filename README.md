@@ -165,9 +165,9 @@ If you encounter any issues or have suggestions for improvement, please provide 
 - Submit an Issue in the GitHub repository
 - Send an email to the theme maintainer
 
-**GitHub Repository**: [https://github.com/jerryjie/trae-warm-orange-theme](https://github.com/jerryjie/trae-warm-orange-theme)
+**GitHub Repository**: [https://github.com/xyjie37/WarmOrange](https://github.com/xyjie37/WarmOrange)
 
-**Issues**: [https://github.com/jerryjie/trae-warm-orange-theme/issues](https://github.com/jerryjie/trae-warm-orange-theme/issues)
+**Issues**: [https://github.com/xyjie37/WarmOrange/issues](https://github.com/xyjie37/WarmOrange/issues)
 
 ## License
 
@@ -351,9 +351,9 @@ Created with ❤️ for developers who love warm, cozy coding environments.
 - 在GitHub仓库中提交Issue
 - 发送邮件至主题维护者
 
-**GitHub仓库**: [https://github.com/jerryjie/trae-warm-orange-theme](https://github.com/jerryjie/trae-warm-orange-theme)
+**GitHub仓库**: [https://github.com/xyjie37/WarmOrange](https://github.com/xyjie37/WarmOrange)
 
-**问题反馈**: [https://github.com/jerryjie/trae-warm-orange-theme/issues](https://github.com/jerryjie/trae-warm-orange-theme/issues)
+**问题反馈**: [https://github.com/xyjie37/WarmOrange/issues](https://github.com/xyjie37/WarmOrange/issues)
 
 ## 许可证
 
