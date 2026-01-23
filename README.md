@@ -34,7 +34,7 @@ A warm and cozy orange theme designed for long coding sessions, making your deve
 
 If you encounter any issues or have suggestions, please submit an issue:
 
-**GitHub**: [https://github.com/jerryjie/trae-warm-orange-theme/issues](https://github.com/jerryjie/trae-warm-orange-theme/issues)
+**GitHub**: [https://github.com/xyjie37/WarmOrange/issues](https://github.com/xyjie37/WarmOrange/issues)
 
 ## License
 
@@ -76,7 +76,7 @@ MIT License
 
 如果发现问题或有改进建议，请提交 Issue：
 
-**GitHub**: [https://github.com/jerryjie/trae-warm-orange-theme/issues](https://github.com/jerryjie/trae-warm-orange-theme/issues)
+**GitHub**: [https://github.com/xyjie37/WarmOrange/issues](https://github.com/xyjie37/WarmOrange/issues)
 
 ## 许可证
 
