@@ -2,8 +2,8 @@
   "name": "trae-warm-orange-theme",
   "displayName": "Warm Orange Theme",
   "description": "一个温暖柔和的橙色主题，适合长时间编码使用",
-  "version": "1.0.0",
-  "publisher": "JerryJie",
+  "version": "1.0.5",
+  "publisher": "JerryJ",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jerryjie/trae-warm-orange-theme"
+    "url": "https://github.com/xyjie37/WarmOrange"
   },
   "bugs": {
-    "url": "https://github.com/jerryjie/trae-warm-orange-theme/issues"
+    "url": "https://github.com/xyjie37/WarmOrange/issues"
   },
-  "homepage": "https://github.com/jerryjie/trae-warm-orange-theme",
+  "homepage": "https://github.com/xyjie37/WarmOrange",
   "license": "MIT",
   "contributes": {
     "themes": [

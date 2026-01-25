@@ -13,7 +13,7 @@
 
 A warm and cozy orange theme designed for long coding sessions, making your development environment more comfortable and inviting.
 
-![Theme Preview](./preview.png)
+![Theme Preview](https://raw.githubusercontent.com/xyjie37/WarmOrange/main/preview.png)
 
 ## Features
 
@@ -55,7 +55,7 @@ MIT License
 
 一个温暖柔和的橙色主题，专为长时间编码设计，让你的开发环境更加舒适温馨。
 
-![主题预览](./preview.png)
+![主题预览](https://raw.githubusercontent.com/xyjie37/WarmOrange/main/preview.png)
 
 ## 主题特点
 
